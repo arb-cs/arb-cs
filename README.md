@@ -5,7 +5,7 @@
 
 ### About me:
 - I've been in the software testing field for many years. I can test front-end, back-end, mobile applications.
-- I became a testing lead more than six months ago.
+- I am also a test lead on my project.
 - I am studying test automation, Java language.
 - In my free time, I like to read books.
 ### Stack:
